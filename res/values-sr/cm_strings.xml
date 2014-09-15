@@ -17,5 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="load_more_summary">Додирни овде да се учита остатак поруке</string>
-  <string name="fetching_message">Преузимање поруке\u2026</string>
+  <string name="fetching_message">Учитавање поруке\u2026</string>
 </resources>
