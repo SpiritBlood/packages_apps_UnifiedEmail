@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="confirm_forward_message">A mensagem tem anexos</string>
-  <string name="confirm_forward_normal">Descarregar e enviar</string>
-  <string name="confirm_forward_drop_unloaded">Usar cópia do servidor</string>
+  <string name="confirm_forward_message">Mesajda əlavələr var</string>
+  <string name="confirm_forward_normal">Endir və göndər</string>
+  <string name="confirm_forward_drop_unloaded">Server kopyasından istifadə et</string>
 </resources>
